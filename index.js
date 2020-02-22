@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2'
+  0: 'Alma Mater',
+  1: 'Pan',
+  2: 'The Thinker'
 };
 
 const MODEL_PATH = document.URL + "model.json";
